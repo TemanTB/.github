@@ -41,7 +41,6 @@ Healthcare & Public Health
   <li><a href="https://github.com/TemanTB/.github">Introduction</a></li>
   <li><a href="https://cdn.discordapp.com/attachments/1160881002588160091/1187329818849710100/infra_GCP.PNG?ex=65967e10&is=65840910&hm=bccddd0c3e41a9518e64ac9b8199ee469f29695a7f0198c232733d914d3886ca&">Infrastructure Model</a></li>
   <li><a href="https://github.com/TemanTB/.github">Tech Used</a></li>
-  <li><a href="https://github.com/TemanTB/.github">Dependencies</a></li>
   <li><a href="https://github.com/TemanTB/API-Documentation">API Documentation</a></li>
 </ul>
 
@@ -51,3 +50,18 @@ Healthcare & Public Health
 <h2>Infrastructure Model</h2>
 <p>The team's cloud computing integration utilizes Google Cloud Platform's Cloud Run for seamless deployment and Cloud SQL for robust relational database services. This ensures an efficient and reliable foundation for the TemanTB application.</p>
 <img src="https://cdn.discordapp.com/attachments/1160881002588160091/1187329818849710100/infra_GCP.PNG?ex=65967e10&is=65840910&hm=bccddd0c3e41a9518e64ac9b8199ee469f29695a7f0198c232733d914d3886ca&">
+
+<h2>Tech Used</h2>
+<ul>	 
+   <li><a href="https://github.com/TemanTB/.github">Visual Studio Code</a></li>
+   <li><a href="https://github.com/TemanTB/.github">Github</a></li>
+   <li><a href="https://github.com/TemanTB/.github">Google Cloud Platform</a></li>
+   <li><a href="https://github.com/TemanTB/.github">Express.js</a></li>
+   <li><a href="https://github.com/TemanTB/.github">Flask</a></li>
+   <li><a href="https://github.com/TemanTB/.github">Docker</a></li>
+</ul>
+
+<h2>API Documentation</h2>
+<li><a href="https://github.com/TemanTB/API-Documentation">Click Here for Documentation</a></li>
+
+
