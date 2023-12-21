@@ -1,45 +1,35 @@
 
-<h2>TemanTB - MD</h2>
+<h2>TemanTB - Machine Learning</h2>
 
-<p>This repository Android app that implements a sliced UI using XML. The application's implementation is done using Kotlin, showcasing a seamless integration of the language for a dynamic and engaging user interface.</p>
+<p>The TemantB project was initiated with the main aim of helping patients monitor their daily health through the use of Natural Language Processing (NLP) for health input in our application.</p>
 
 <h2>Table of Contents</h2>
 <ul>
   <li><a href="https://github.com/TemanTB/.github">Introduction</a></li>
-  <li><a href="https://github.com/TemanTB/.github">Tech Used</a></li>
-  <li><a href="https://github.com/TemanTB/.github">Step to Replicate</a></li>
-  <li><a href="https://github.com/TemanTB/.github">Dependencies</a></li>
-  <li><a href="https://github.com/TemanTB/.github">APK Link</a></li>
+  <li><a href="https://github.com/TemanTB/.github">Datasets</a></li>
+  <li><a href="https://github.com/TemanTB/.github">Model Architecture</a></li>
+  <li><a href="https://github.com/TemanTB/.github">Training</a></li>
+  <li><a href="https://github.com/TemanTB/.github">Evaluation</a></li>
+  <li><a href="https://github.com/TemanTB/.github">Further Work</a></li>
 </ul>
 
 <h2>Introduction</h2>
-<p>TemantB is an innovative health application that aims to help TB patients with their health using this application.</p>
+<p>NLP or Natural Language Processing is a branch of artificial intelligence that focuses on the interaction between computers and human language. The goal of NLP is to teach computers to understand, interpret, and respond to human language in a meaningful way.</p>
 
-<h2>Tech Used</h2>
-<p>TemanTB app using Technology</p>
-<ol>
-  <li>Kotlin</li>
-  <li>Android Studio</li>
-</ol>
-
-<h2>Step to Replicate</h2>
-<p>step that you should setup</p>
-
-<h2>Prerequisite</h2>
+<h2>Datasets</h2>
 <ul>
-  <li>Android Studio</li>
-  <li>Java Development Kit</li>
+  <li><a href="https://github.com/TemanTB/.github">Data 1</a></li>
+  <li><a href="https://github.com/TemanTB/.github">Data 2</a></li>
+  <li><a href="https://github.com/TemanTB/.github">Data 3</a></li>
+  <li><a href="https://github.com/TemanTB/.github">Data 4</a></li>
 </ul>
 
-<h2>Clone This Project</h2>
+<h2>Model Architecture</h2>
 
-```json
-https://github.com/TemanTB/TemanTBApp---MD.git
-```
+<h2>Training</h2>
 
-| Dependency | Purpose          | 
-| ------ |----------------|
-| awawd |  awdawd  |
+<h2>Evaluation</h2>
 
-<h2>Download APK link</h2>
-<a href="https://github.com/TemanTB/.github">https://github.com/TemanTB/.github</a>
+<h2>Further Work</h2>
+
+
