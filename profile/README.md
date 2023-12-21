@@ -64,4 +64,19 @@ Healthcare & Public Health
 <h2>API Documentation</h2>
 <li><a href="https://github.com/TemanTB/API-Documentation">Click Here for Documentation</a></li>
 
+<br><br>
+
+<h2>TemanTB - MD</h2>
+
+<p>This repository Android app that implements a sliced UI using XML. The application's implementation is done using Kotlin, showcasing a seamless integration of the language for a dynamic and engaging user interface.</p>
+
+<h2>Table of Contents</h2>
+<ul>
+  <li><a href="https://github.com/TemanTB/.github">Introduction</a></li>
+  <li><a href="https://cdn.discordapp.com/attachments/1160881002588160091/1187329818849710100/infra_GCP.PNG?ex=65967e10&is=65840910&hm=bccddd0c3e41a9518e64ac9b8199ee469f29695a7f0198c232733d914d3886ca&">Infrastructure Model</a></li>
+  <li><a href="https://github.com/TemanTB/.github">Tech Used</a></li>
+  <li><a href="https://github.com/TemanTB/API-Documentation">API Documentation</a></li>
+</ul>
+
+
 
